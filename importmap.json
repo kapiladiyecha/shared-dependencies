@@ -1,9 +1,12 @@
 {
   "imports": {
-    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js",
+    "single-spa1": "https://cdn.jsdelivr.net/npm/single-spa@5.5.3/lib/system/single-spa.min.js",
     "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
     "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.5.5/system/rxjs.min.js",
-    "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.5.5/system/rxjs-operators.min.js"
+    "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.5.5/system/rxjs-operators.min.js",
+    "ag-grid-community": "https://cdnjs.cloudflare.com/ajax/libs/ag-grid/23.2.1/ag-grid-community.min.js",
+    "ag-grid-react": "https://cdn.jsdelivr.net/npm/ag-grid-react@23.2.1/main.min.js",
+    "react-dom-factories": "https://cdn.jsdelivr.net/npm/react-dom-factories@1.0.2/index.min.js"
   }
 }
